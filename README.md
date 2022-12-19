@@ -1,4 +1,4 @@
-# neurolab-c
+# lab-c
 
 Command to run hello.c file:
 
