@@ -4,7 +4,7 @@
     {
       "label": "Installing extensions and running your app...",
       "type": "shell",
-      "command": "code-server --install-extension formulahendry.code-runner && gcc hello.c -o hello && ./hello",
+      "command": "code-server --install-extension formulahendry.code-runner --install-extension Equinusocio.vsc-community-material-theme --install-extension PKief.material-icon-theme && gcc hello.c -o hello && ./hello",
       "presentation": {
         "reveal": "always",
         "panel": "new"

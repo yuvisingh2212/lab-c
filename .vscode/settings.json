@@ -1,6 +1,9 @@
 {
-  "workbench.colorTheme": "Default Dark+",
-  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "workbench.preferredDarkColorTheme": "Community Material Theme Darker High Contrast",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 20,
+  "code-runner.runInTerminal": true,
   "task.allowAutomaticTasks": "on",
   "workbench.editorAssociations": {
     "*.md": "vscode.markdown.preview.editor"
